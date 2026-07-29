@@ -38,9 +38,7 @@ classification accuracy.
 ## Licensing
 > Developed for CS 580: Introduction to Artificial Intelligence  
 > Author: Sahad Rafiuzzaman  
-> Completed: April 24, 2025
-> 
-The contents of this repository are licensed under the terms specified in each individual folder. 
+> The contents of this repository are licensed under the terms specified in each individual folder. 
 Please refer to the `LICENSE` file in the root for the default license, and check subfolders for any exceptions.
 
 
